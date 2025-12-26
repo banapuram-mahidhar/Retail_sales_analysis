@@ -5,7 +5,7 @@
 **Project Title**: Retail Sales Analysis  
 **Level**: Beginner  
 **Database**: `p1_retail_db`
-
+![image alt](https://github.com/banapuram-mahidhar/Retail_sales_analysis/blob/793ba611d9f10312ddd6074720a54fb7e4bae1f9/Retail%20Sales%20Analysis%20SQL%20Project_img.png)
 
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This project is ideal for those who are starting their journey in data analysis and want to build a solid foundation in SQL.
 
